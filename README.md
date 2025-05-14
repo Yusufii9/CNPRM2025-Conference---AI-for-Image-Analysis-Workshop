@@ -36,6 +36,7 @@ To participate in the hands-on portion of this workshop:
 - Strategies to improve model generalization and fairness
 - Cross-validation for reliable performance assessment
 - Introduction to using pre-trained models
+- Explainable AI (XAI) for model interpretability 
 
 ## 📊 Evaluation Metrics
 
