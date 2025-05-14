@@ -20,7 +20,7 @@ This workshop explores the application of Artificial Intelligence (AI), particul
 
 ## 🚀 Getting Started
 
-To participate in the hands-on portion of this workshop:
+To participate in the hands-on portion of this workshop and get access to the data:
 
 1. **Sign in to Google Drive**
 2. **Access the shared folder** via this [link](https://drive.google.com/drive/folders/1IybfMZdyykOnHcofWLiUzSagrhrW5Gpl?usp=sharing)
