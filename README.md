@@ -50,7 +50,7 @@ To participate in the hands-on portion of this workshop and get access to the da
 
 ## 👥 Contributors
 
-- **Adrian D.C. Chan**, PhD, PEng, FCMBES – Instructor  
+- **Adrian D.C. Chan**, PhD, PEng, FCMBES – Instructor (adrianchan@cunet.carleton.ca)
 - **Youssef Megahed**, MASc – Data Science, Analytics, and Artificial Intelligence (youssefmegahed@cmail.carleton.ca)
 - **Atallah Madi**, MASc – Electrical & Computer Engineering  
 - **Saleh Abou-Alwan**, MASc – Biomedical Engineering
