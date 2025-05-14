@@ -45,7 +45,7 @@ To participate in the hands-on portion of this workshop:
 - **Precision** – Correctness of positive predictions
 - **F1 Score** – Harmonic mean of precision and recall
 
-> See the `Handout-Guide.docx` for a complete explanation of each metric.
+> See the `Handout-Guide.pdf` for a complete explanation of each metric.
 
 ## 👥 Contributors
 
