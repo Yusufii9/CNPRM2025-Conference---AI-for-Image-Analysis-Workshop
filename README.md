@@ -16,7 +16,7 @@ This workshop explores the application of Artificial Intelligence (AI), particul
 - `Image Analysis Tutorial.ipynb`: Main Colab notebook for hands-on exercises
 - `Step-by-step Workshop Instructions.pdf`: Setup instructions and how to run the notebook in Google Colab
 - `Handout-Guide.pdf`: Quick reference on model evaluation metrics (e.g., accuracy, precision, recall)
-- `Workshop.pptx`: Slides covering the theory and case studies used in the workshop
+- `Workshop_Slides.pptx`: Slides covering the theory and case studies used in the workshop
 
 ## 🚀 Getting Started
 
