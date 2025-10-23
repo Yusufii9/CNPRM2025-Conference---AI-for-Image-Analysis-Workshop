@@ -1,6 +1,6 @@
 # AI for Image Analysis – Workshop
 
-Welcome to the **AI for Image Analysis** workshop! This repository contains all the materials, resources, and instructions you'll need to follow along with the session.
+Welcome to the **AI for Image Analysis** workshop at the CNPRM 2025 Conference! This repository contains all the materials, resources, and instructions you'll need to follow along with the session.
 
 ## 👩‍🏫 Workshop Overview
 
